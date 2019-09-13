@@ -12,4 +12,4 @@ This simple application was built following the [React Tutorial](https://reactjs
 * [Node](https://nodejs.org/)
 * [Webpack](https://webpack.js.org/)
 
-This Application is also hosted on **[Netlify](https://www.netlify.com/)**. Click [here](https://tic-tac-toe-95c24c.netlify.com) to view 
+This Application is also hosted on **[Netlify](https://www.netlify.com/)**. Click **[here](https://tic-tac-toe-95c24c.netlify.com)** to view 
