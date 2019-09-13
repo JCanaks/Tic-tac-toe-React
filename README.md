@@ -11,3 +11,5 @@ This simple application was built following the [React Tutorial](https://reactjs
 * [React](https://reactjs.org/)
 * [Node](https://nodejs.org/)
 * [Webpack](https://webpack.js.org/)
+
+This Application is also hosted on Netlify. Click [here](https://tic-tac-toe-95c24c.netlify.com) to view 
